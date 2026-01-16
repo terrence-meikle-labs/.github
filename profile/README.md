@@ -11,8 +11,10 @@ built in **.NET**, **Azure**, and **Angular**.
 
 ## Featured
 - **MCP Server (.NET)** — containerized Model Context Protocol server + supporting services
+- *** link to [repo](https://github.com/terrence-meikle-labs/mcp-server-dotnet)
 
 ## Stack
 .NET • Docker • Azure • Angular • CI/CD fundamentals
 
 > Tip: Start with the pinned repos below.
+
