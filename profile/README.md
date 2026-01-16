@@ -16,6 +16,6 @@ built in **.NET**, **Azure**, and **Angular**.
 ## Stack
 .NET • Docker • Azure • Angular • CI/CD fundamentals
 
-> Tip: Start with the pinned repos below.
+
 
 
